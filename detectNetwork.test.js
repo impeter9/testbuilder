@@ -1,3 +1,4 @@
+//test cases for detectNetwork.js
 //--------------------------------------------------------------------------------------------
 //Diner's Club
 describe('Diner\'s Club', function() {
